@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Statistics for  \nEcology and Evolutionary Biology  \n(EEEB UN3005/GR5005)"
-author: "Columbia University - Spring 2020  \nUPDATED: 21 March 2020"
+author: "Columbia University - Fall 2020  \nUPDATED: 09 September 2020"
 output: pdf_document
 fontsize: 12pt
 urlcolor: blue
@@ -23,20 +23,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##  Instructor
 
-Evan Eskew (evan.eskew@columbia.edu); office hours after class or by appointment
+Steffen Foerster (sf2041@columbia.edu); office hours after class or by appointment
 
 ## Teaching Assistants
 
-Eva Arroyo (eea2140@columbia.edu); office hours Thursday, 12-2 pm, 1016 Schermerhorn Extension or by appointment
+Rachel O. Cohen (roc2109@columbia.edu); office hours Monday, 2-3 pm, Zoom
 
-Roi Ankori-Karlinsky (ra3040@columbia.edu); office hours Thursday, 12-2 pm, 1016 Schermerhorn Extension or by appointment
+Dean M. Bobo (deanmbobo@gmail.com); office hours Thursday, 9-11 am, Zoom
 
 
 # Meeting Times
 
-Lecture: Monday, 6:10-7:25 pm, 417 Mathematics Building
+Lecture: Monday, 6:10-7:25 pm, Zoom
 
-Lab: Monday or Wednesday, 7:40-8:55 pm, 558 Schermerhorn Extension
+Lab: Monday or Wednesday, 7:40-8:55 pm, Zoom
 
 
 \newpage
@@ -72,12 +72,12 @@ This course will be taught entirely in the R programming language. R is widely u
 
 While not required, having a personal computer for this class will be a benefit given that R coding will be a major focus of teaching and all homework assignments will require access to a computer. If you have one, I encourage you to bring your personal computers to lecture and follow along with the class material on your own machine. If you exercise this option, do not be a distraction to other students by using your computer for anything not course-related during class time. **Please attempt to install R and Rstudio on your personal computers prior to the start of the course, but if you have trouble, we will be able to help you with software installation during the first week of class.** 
 
-Computers will be available in the lab space during lab sections for all students. However, students in the class can also take advantage of [Codio](https://www.codio.com/), which provides access to R and RStudio on any computer with internet access. This provides a flexible means of completing the course assignments on a machine of your choosing (i.e., lab, library, or personal computer). Further instruction on use of Codio will be given during lab sections for students wanting to exercise this option.
+Students who do not have access to a personal computer or who are unable to install the required software and packages can take advantage of [Codio](https://www.codio.com/), which provides access to R and RStudio on any computer with internet access. This provides a flexible means of completing the course assignments on a machine of your choosing (i.e., lab, library, or personal computer). Further instruction on use of Codio will be given during lab sections for students wanting to exercise this option.
 
 
 # Course GitHub
 
-In addition to using the CourseWorks site, I will maintain a [GitHub repository for this course](https://github.com/eveskew/stats_eco_evo_spring2020). This will allow others to freely access materials and also provides an opportunity for you to become familiar with git and GitHub, if you're so inclined. 
+In addition to using the CourseWorks site, I will maintain a [GitHub repository for this course](https://github.com/steffenfoerster/stats_eco_evo_fall2020). This will allow others to freely access materials and also provides an opportunity for you to become familiar with git and GitHub, if you're so inclined. 
 
 
 \newpage
@@ -138,13 +138,13 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 \newpage
 # Course Schedule
 
-## Week 01 (Jan 27) - Introduction to R and RStudio
+## Week 01 (Sep 14) - Introduction to R and RStudio
 
 **Required reading:**  
 
 - *Statistical Rethinking*: Preface, Chapter 1
 
-## Week 02 (Feb 03) - Data Cleaning and More Advanced R
+## Week 02 (Feb 21) - Data Cleaning and More Advanced R
 
 **Required reading:**
 
@@ -152,7 +152,7 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - "Introduction to dplyr." [Article link](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
 
-## Week 03 (Feb 10) - Data Visualization
+## Week 03 (Sep 28) - Data Visualization
 
 **Required reading:**  
 
@@ -162,7 +162,7 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - Martin, L. J. 2015. Mathematizing nature’s messiness: graphical representations of variation in ecology, 1930-present.  
 
-## Week 04 (Feb 17) - Bayesian Basics
+## Week 04 (Oct 05) - Bayesian Basics
 
 **Required reading:**  
 
@@ -174,15 +174,15 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - McElreath, R. 2011. "The tyranny of Fisher." 
 
-## Week 05 (Feb 24) - Statistical Distributions and Summary Statistics
+## Week 05 (Oct 12) - Statistical Distributions and Summary Statistics
 
 **Required reading:**  
 
 - *Statistical Rethinking*: Chapter 3  
 
-**EEEB GR5005 Students: Research project prospectus due Feb 27**
+**EEEB GR5005 Students: Research project prospectus due Oct 15**
 
-## Week 06 (Mar 02) - Gaussian Regression Models
+## Week 06 (Oct 19) - Gaussian Regression Models
 
 **Required reading:**  
 
@@ -190,17 +190,13 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - *Statistical Rethinking*: Chapter 4  
 
-## Week 07 (Mar 09) - Multiple Regression
+## Week 07 (Oct 26) - Multiple Regression
 
 **Required reading:**  
 
 - *Statistical Rethinking*: Chapter 5  
 
-## Week 08 (Mar 16) - No Class (Spring Break)
-
-## Week 09 (Mar 23) - No Class (COVID-19 Cancellations)
-
-## Week 10 (Mar 30) - Model Selection
+## Week 08 (Nov 2) - Model Selection
 
 **Required reading:**  
 
@@ -214,15 +210,15 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - McGill, B. 2015. "Why AIC appeals to ecologist's lowest instincts." *Dynamic Ecology*. [Article link](https://dynamicecology.wordpress.com/2015/05/21/why-aic-appeals-to-ecologists-lowest-instincts/) (And be sure to see the many interesting comments.)
 
-**EEEB GR5005 Students: Research project rough drafts due Apr 02**
+**EEEB GR5005 Students: Research project rough drafts due Nov 5**
 
-## Week 11 (Apr 06) - Interactions
+## Week 09 (Nov 9) - Interactions
 
 **Required reading:**  
 
 - *Statistical Rethinking*: Chapter 7 
 
-## Week 12 (Apr 13) - Link Functions and Poisson Regression
+## Week 10 (Nov 16) - Link Functions and Poisson Regression
 
 **Required reading:**  
 
@@ -232,9 +228,10 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - *Statistical Rethinking*: Chapter 8  
 
-## Week 13 (Apr 20) - Binomial Regression
+## Week 11 (Nov 23) - Binomial Regression
 
-## Week 14 (Apr 27) - Introduction to Multilevel Modeling
+
+## Week 12 (Nov 30) - Introduction to Multilevel Modeling
 
 **Required reading:**  
 
@@ -242,17 +239,24 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - *Statistical Rethinking*: Chapter 12  
 
-**EEEB GR5005 Students: Research projects due Apr 30**
+**EEEB GR5005 Students: Research projects due Dec 3**
 
-## Week 15 (May 04) - More Multilevel Modeling
+## Week 13 (Dec 7) - More Multilevel Modeling
 
 **Required reading:**  
 
 - Bolker, B. M., et al. 2009. Generalized linear mixed models: a practical guide for ecology and evolution. 
 
+## Week 14 (Dec 14) - The Wide World of Statistical Models
+
+**Required reading:**  
+
+- *Statistical Rethinking*: Chapter 11  
+
 **Optional reading:**
 
 - Freedman, D. A. 1991. Statistical models and shoe leather.
+
 
 
 \newpage
