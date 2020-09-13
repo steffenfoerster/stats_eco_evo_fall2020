@@ -27,7 +27,7 @@ Steffen Foerster (sf2041@columbia.edu); office hours after class or by appointme
 
 ## Teaching Assistants
 
-Rachel O. Cohen (roc2109@columbia.edu); office hours Monday, 2-3 pm, Zoom
+Rachel O. Cohen (roc2109@columbia.edu); office hours Wednesday, 3-4 pm, Zoom
 
 Dean M. Bobo (deanmbobo@gmail.com); office hours Thursday, 9-11 am, Zoom
 
@@ -51,12 +51,12 @@ At the conclusion of this course, you should be much more comfortable working wi
 
 The primary text for this course is [*Statistical Rethinking: A Bayesian Course with Examples in R and Stan*](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath. This is an incredibly accessible statistics book, and it will serve us well in establishing the foundations of regression modeling. It is worth checking online retailers for the book since used copies can sometimes be found at a discount. The book contains extensive R code, so it will also assist us in strengthening our R skills throughout the semester. **I highly recommend you work step-by-step through the book material in R as you complete your readings each week.**
 
-In addition to chapters from *Statistical Rethinking*, there will be some additional assigned readings from the scientific literature and blogs. I will post these materials on the class CourseWorks site, or they are freely available online and linked in the syllabus.
+In addition to chapters from *Statistical Rethinking*, there will be some additional assigned readings from the scientific literature and blogs. I will post these materials on the class Canvas site, or they are freely available online and linked in the syllabus.
 
 
 # Course Organization
 
-The course topic for each week will be introduced through that week's readings. Therefore, **it is critical that you do the required reading *before* the relevant lecture.** Lectures will closely follow readings and are meant to solidify your understanding of the material. In lab sections, you will address problems in statistics and coding in an environment where help is readily available from myself and the course TAs. Finally, homework assignments are your opportunity to demonstrate mastery of the material through independent work. Homework assignments will be released on Wednesday of each week and will be due the following Tuesday at 5 pm.
+The course topic for each week will be introduced through that week's readings. Therefore, **it is critical that you do the required reading *before* the relevant lecture.** Lectures will closely follow readings and are meant to solidify your understanding of the material. In lab sections, you will address problems in statistics and coding in an environment where help is readily available. Finally, homework assignments are your opportunity to demonstrate mastery of the material through independent work. Homework assignments will be released on Wednesday of each week and will be due the following Tuesday at 5 pm.
 
 Those enrolled in the graduate course will also complete an additional research project assignment, with portions of the work due throughout the semester. Project details will be provided separately.
 
@@ -77,7 +77,7 @@ Students who do not have access to a personal computer or who are unable to inst
 
 # Course GitHub
 
-In addition to using the CourseWorks site, I will maintain a [GitHub repository for this course](https://github.com/steffenfoerster/stats_eco_evo_fall2020). This will allow others to freely access materials and also provides an opportunity for you to become familiar with git and GitHub, if you're so inclined. 
+In addition to using the Canvas site, I will maintain a [GitHub repository for this course](https://github.com/steffenfoerster/stats_eco_evo_fall2020). This will allow others to freely access materials and also provides an opportunity for you to become familiar with git and GitHub, if you're so inclined. 
 
 
 \newpage
