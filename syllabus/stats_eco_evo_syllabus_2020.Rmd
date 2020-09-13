@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##  Instructor
 
-Steffen Foerster (sf2041@columbia.edu); office hours after class or by appointment
+Steffen Foerster (sf2041@columbia.edu); office hours Tuesday, 6-7 pm or by appointment, Zoom (personal meeting room, one student at a time admitted from waiting room, 15 minutes maximum per student if others are waiting)
 
 ## Teaching Assistants
 
