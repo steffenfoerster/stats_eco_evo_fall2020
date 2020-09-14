@@ -1,5 +1,5 @@
 ---
-title: "EEEB UN3005/GR5005  \nLab - Week 02 - 03 and 05 February 2020"
+title: "EEEB UN3005/GR5005  \nLab - Week 02"
 author: "USE YOUR NAME HERE"
 output: pdf_document
 fontsize: 12pt
