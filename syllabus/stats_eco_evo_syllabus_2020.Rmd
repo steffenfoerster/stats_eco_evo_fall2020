@@ -144,7 +144,7 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - *Statistical Rethinking*: Preface, Chapter 1
 
-## Week 02 (Feb 21) - Data Cleaning and More Advanced R
+## Week 02 (Sep 21) - Data Cleaning and More Advanced R
 
 **Required reading:**
 
@@ -180,7 +180,7 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - *Statistical Rethinking*: Chapter 3  
 
-**EEEB GR5005 Students: Research project prospectus due Oct 15**
+**EEEB GR5005 Students: Research project prospectus due Oct 22**
 
 ## Week 06 (Oct 19) - Gaussian Regression Models
 
@@ -239,13 +239,15 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - *Statistical Rethinking*: Chapter 12  
 
-**EEEB GR5005 Students: Research projects due Dec 3**
 
 ## Week 13 (Dec 7) - More Multilevel Modeling
 
 **Required reading:**  
 
 - Bolker, B. M., et al. 2009. Generalized linear mixed models: a practical guide for ecology and evolution. 
+
+**EEEB GR5005 Students: Research projects due Dec 10**
+
 
 ## Week 14 (Dec 14) - The Wide World of Statistical Models
 
@@ -256,6 +258,7 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 **Optional reading:**
 
 - Freedman, D. A. 1991. Statistical models and shoe leather.
+
 
 
 

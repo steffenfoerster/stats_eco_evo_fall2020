@@ -1,6 +1,6 @@
 ---
 title: "| EEEB GR5005\n| Graduate Level Research Project"
-author: "Columbia University - Spring 2020"
+author: "Columbia University - Fall 2020"
 output: pdf_document
 fontsize: 12pt
 ---
@@ -44,7 +44,7 @@ As a first step in the research project process, each of you will submit a short
 
 The overall goal of the project prospectus is simply to ensure that you have a plan for your research project early on in the semester. It will also allow me to best assist you towards successful completion of the project.
 
-- **The research project prospectus will be due on Thursday, February 27.** 
+- **The research project prospectus will be due on Thursday, October 22.** 
 
 
 ## Part 2: Rough Draft (10% of Overall Project Grade)
@@ -53,12 +53,12 @@ In order to help everyone make good progress towards their project goals, I will
 
 In addition, **please include a short paragraph (2-5 sentences) at the end of your project rough draft with your own evaluation of how your project does or does not meet the standards outlined in the rubric below.** This paragraph does not need to appear in your project final draft. It is intended to help you think at this intermediate project stage about which parts of the project you already have a good handle on, and, by contrast, those elements that may need more work. I want to make sure you have a good understanding of the project expectations *before* you turn in the final draft.
 
-- **The research project rough draft will be due on Thursday, April 02.** But you're welcome to submit your draft earlier than the official deadline, if you'd like, and I can try to give you more rapid feedback.
+- **The research project rough draft will be due on Thursday, November 05.** But you're welcome to submit your draft earlier than the official deadline, if you'd like, and I can try to give you more rapid feedback.
 
 
 ## Part 3: Final Draft (85% of Overall Project Grade)
 
-- **The research project final draft will be due on Thursday, April 30.**
+- **The research project final draft will be due on Thursday, December 10.**
 
 
 \newpage
