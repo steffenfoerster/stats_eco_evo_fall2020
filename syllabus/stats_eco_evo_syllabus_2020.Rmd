@@ -196,7 +196,12 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - *Statistical Rethinking*: Chapter 5  
 
-## Week 08 (Nov 2) - Model Selection
+## Week 08 (Nov 2) - ACADEMIC HOLIDAY - NO LECTURE
+
+**EEEB GR5005 Students: Research project rough drafts due Nov 5**
+
+
+## Week 09 (Nov 9) - Model Selection
 
 **Required reading:**  
 
@@ -210,15 +215,14 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - McGill, B. 2015. "Why AIC appeals to ecologist's lowest instincts." *Dynamic Ecology*. [Article link](https://dynamicecology.wordpress.com/2015/05/21/why-aic-appeals-to-ecologists-lowest-instincts/) (And be sure to see the many interesting comments.)
 
-**EEEB GR5005 Students: Research project rough drafts due Nov 5**
 
-## Week 09 (Nov 9) - Interactions
+## Week 10 (Nov 16) - Interactions
 
 **Required reading:**  
 
 - *Statistical Rethinking*: Chapter 7 
 
-## Week 10 (Nov 16) - Link Functions and Poisson Regression
+## Week 11 (Nov 23) - Link Functions and Poisson Regression
 
 **Required reading:**  
 
@@ -228,10 +232,10 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - *Statistical Rethinking*: Chapter 8  
 
-## Week 11 (Nov 23) - Binomial Regression
+## Week 12 (Nov 30) - Binomial Regression
 
 
-## Week 12 (Nov 30) - Introduction to Multilevel Modeling
+## Week 13 (Dec 7) - Introduction to Multilevel Modeling
 
 **Required reading:**  
 
@@ -239,25 +243,26 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - *Statistical Rethinking*: Chapter 12  
 
+**EEEB GR5005 Students: Research projects due Dec 10**
 
-## Week 13 (Dec 7) - More Multilevel Modeling
+
+## Week 14 (Dec 14) - More Multilevel Modeling
 
 **Required reading:**  
 
 - Bolker, B. M., et al. 2009. Generalized linear mixed models: a practical guide for ecology and evolution. 
 
-**EEEB GR5005 Students: Research projects due Dec 10**
 
 
-## Week 14 (Dec 14) - The Wide World of Statistical Models
+<!-- ## Week 14 (Dec 14) - The Wide World of Statistical Models -->
 
-**Required reading:**  
+<!-- **Required reading:**   -->
 
-- *Statistical Rethinking*: Chapter 11  
+<!-- - *Statistical Rethinking*: Chapter 11   -->
 
-**Optional reading:**
+<!-- **Optional reading:** -->
 
-- Freedman, D. A. 1991. Statistical models and shoe leather.
+<!-- - Freedman, D. A. 1991. Statistical models and shoe leather. -->
 
 
 
