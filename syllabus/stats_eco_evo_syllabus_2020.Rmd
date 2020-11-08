@@ -190,22 +190,30 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 
 - *Statistical Rethinking*: Chapter 4  
 
-## Week 07 (Oct 26) - Multiple Regression
+## Week 07 (Oct 26) - Regression, continued
 
 **Required reading:**  
 
-- *Statistical Rethinking*: Chapter 5  
+- *Statistical Rethinking*: Chapter 4  
+
 
 ## Week 08 (Nov 2) - ACADEMIC HOLIDAY - NO LECTURE
 
-**EEEB GR5005 Students: Research project rough drafts due Nov 5**
+**EEEB GR5005 Students: Research project rough drafts due Nov 12**
 
 
-## Week 09 (Nov 9) - Model Selection
+## Week 09 (Nov 9) - Multiple Regression
 
 **Required reading:**  
 
-- *Statistical Rethinking*: Chapter 6  
+- *Statistical Rethinking*: Chapter 5
+
+
+## Week 10 (Nov 16) - Model selection
+
+**Required reading:**  
+
+- *Statistical Rethinking*: Chapter 7
 
 - Anderson, D. R., and K. P. Burnham. 2002. Avoiding pitfalls when using information-theoretic methods. 
 
@@ -216,53 +224,43 @@ For homework assignments, I encourage you to discuss the problem sets and potent
 - McGill, B. 2015. "Why AIC appeals to ecologist's lowest instincts." *Dynamic Ecology*. [Article link](https://dynamicecology.wordpress.com/2015/05/21/why-aic-appeals-to-ecologists-lowest-instincts/) (And be sure to see the many interesting comments.)
 
 
-## Week 10 (Nov 16) - Interactions
+## Week 11 (Nov 23) - Interactions
 
 **Required reading:**  
 
-- *Statistical Rethinking*: Chapter 7 
+- *Statistical Rethinking*: Chapter 8
 
-## Week 11 (Nov 23) - Link Functions and Poisson Regression
+
+## Week 12 (Nov 30) - Link Functions and Poisson Regression
 
 **Required reading:**  
 
-- *Statistical Rethinking*: Chapters 9-10  
+- *Statistical Rethinking*: Chapters 10-11  
 
 **Optional reading:**
 
-- *Statistical Rethinking*: Chapter 8  
-
-## Week 12 (Nov 30) - Binomial Regression
+- *Statistical Rethinking*: Chapter 9 
 
 
-## Week 13 (Dec 7) - Introduction to Multilevel Modeling
+
+## Week 13 (Dec 7) - Binomial Regression
+
+**Required reading:**  
+
+- *Statistical Rethinking*: Chapter 11
+
+
+
+## Week 14 (Dec 14) - Introduction to Multilevel Modeling
 
 **Required reading:**  
 
 - McElreath, R. 2017. "Multilevel regression as default." [Article link](http://elevanth.org/blog/2017/08/24/multilevel-regression-as-default/)
 
-- *Statistical Rethinking*: Chapter 12  
+- *Statistical Rethinking*: Chapter 13
 
-**EEEB GR5005 Students: Research projects due Dec 10**
+**EEEB GR5005 Students: Research projects due Dec 17**
 
-
-## Week 14 (Dec 14) - More Multilevel Modeling
-
-**Required reading:**  
-
-- Bolker, B. M., et al. 2009. Generalized linear mixed models: a practical guide for ecology and evolution. 
-
-
-
-<!-- ## Week 14 (Dec 14) - The Wide World of Statistical Models -->
-
-<!-- **Required reading:**   -->
-
-<!-- - *Statistical Rethinking*: Chapter 11   -->
-
-<!-- **Optional reading:** -->
-
-<!-- - Freedman, D. A. 1991. Statistical models and shoe leather. -->
 
 
 
